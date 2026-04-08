@@ -5,9 +5,9 @@ import { BoxLineGeometry } from "three/examples/jsm/geometries/BoxLineGeometry.j
 
 import ThreeMeshUI from "../src/three-mesh-ui.js";
 
-import SnakeImage from "./assets/spiny_bush_viper.jpg";
+import SnakeImage from ".https://iili.io/KzEvuCN.png";
 import FontJSON from "./assets/Roboto-msdf.json";
-import FontImage from "./assets/Roboto-msdf.png";
+import FontImage from ".https://iili.io/f68CNYF.png";
 
 const WIDTH = window.innerWidth;
 const HEIGHT = window.innerHeight;
@@ -109,7 +109,7 @@ function makeTextPanel() {
 
   caption.add(
     new ThreeMeshUI.Text({
-      content: "Mind your fingers",
+      content: "Mind your Wet fingers",
       fontSize: 0.04,
     })
   );
