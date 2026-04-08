@@ -118,7 +118,7 @@ function makeTextPanel( index, textAlign, last = false ) {
 
 	container.add(
 		new ThreeMeshUI.Text( {
-			content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+			content: '<img src="https://iili.io/f68CNYF.png" alt="peace" border="0"> Project work.',
 			fontSize: 0.055
 		} )
 	);
